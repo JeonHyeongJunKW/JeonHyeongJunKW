@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=d5d5d5&height=100&section=header&text=HyeongJun,Jeon&fontSize=60&animation=fadeIn)
 
 
-###  Main Project 
+###  **Main Project** 
 
 #### Visual SLAM
 
@@ -16,7 +16,8 @@
 #### Image Inpainting
 - ['Globally and Locally Consistent Image Completion' 논문 구현](https://github.com/JeonHyeongJunKW/Completion-network-Demo)
 - ['Simultaneous Detection and Removal of Dynamic Objects in Multi-view Images' 논문 구현](https://github.com/JeonHyeongJunKW/Dynamic_mask_maker)
-### Mini Project
+
+### **Mini Project**
 - [c++환경에서 python 사용 예제](https://github.com/JeonHyeongJunKW/PythonCpp_conv)
 - [물류환경 시뮬레이터](https://github.com/JeonHyeongJunKW/warehouse-simulator)
 - [강화학습기반의 이족보행로봇 학습](https://github.com/JeonHyeongJunKW/RL_BipedalWalker-v3)
