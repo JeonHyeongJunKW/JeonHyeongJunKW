@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=d5d5d5&height=100&section=header&text=HyeongJun,Jeon&fontSize=60&animation=fadeIn)
 
+### <span style='background-color:#fff5b1'>Main Project</span>
+#### Visual SLAM
+
+#### <span style='background-color:#fff5b1'>Dynamic Object Detection</span>
+
+#### Image Inpainting
+
+### Mini Project
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=9965509)](https://solved.ac/9965509)
