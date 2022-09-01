@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=d5d5d5&height=300&section=header&text=HyeongJun,Jeon&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=d5d5d5&height=100&section=header&text=HyeongJun,Jeon&fontSize=60&animation=fadeIn)
 
 
 
