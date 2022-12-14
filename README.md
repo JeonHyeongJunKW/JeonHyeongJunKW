@@ -7,7 +7,8 @@
 #### Visual SLAM
 
 - [Visual SLAM Study](https://github.com/JeonHyeongJunKW/Visual-SLAM)
-- [loop detection with DBoW2](https://github.com/JeonHyeongJunKW/PlaceRecognitonDBoW2)
+- [Loop detection with DBoW2](https://github.com/JeonHyeongJunKW/PlaceRecognitonDBoW2)
+- [Visual SLAM algorithm using LoopNet toward Dynamic Environments](https://github.com/JeonHyeongJunKW/orbprob_map_viewer)
 
 #### Dynamic Object Detection
 
